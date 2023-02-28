@@ -30,3 +30,10 @@ The code should be written in ruby (compatible with version 2.x)
 
 * The product feed format specification can be found here
 * You can use any existing library you want (please don't write your own XML parser :))
+
+## Running the program
+
+```
+bundle install
+rake run_assignment
+```
